@@ -1,4 +1,4 @@
-{
+[
 	{
 		"p_rel_url" : "https://raw.githubusercontent.com/chinnamuruga87/olympics24/refs/heads/main/athletes.csv",
 		"p_folder" : "athletes",
@@ -15,4 +15,4 @@
 		"p_files" : "events.parquet"
 	}
 
-}
+]
