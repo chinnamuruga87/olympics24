@@ -1,0 +1,12 @@
+Stu_id,Stu_name,Tamil,English,Maths,Science,Sscience,Total,Average,Grade,Reselt
+1,Kannan,60,80,98,100,86,424,84,Grade A,PASS
+2,Geetha,78,70,88,69,82,387,77,Grade B,PASS
+3,Salini,87,76,56,76,55,350,70,Grade B,PASS
+4,Sham,62,84,68,55,46,315,63,Grade B,PASS
+5,Kumar,32,43,29,38,40,182,36,Grade D,FAIL
+6,Raman,43,15,38,10,56,162,32,Grade D,FAIL
+7,Vevek,13,40,78,50,46,227,45,Grade C,FAIL
+8,Mani,88,85,87,90,86,436,87,Grade A,PASS
+9,Malathi,65,40,96,60,55,316,63,Grade B,PASS
+10,Manikkam,32,34,29,45,36,176,35,Grade D,FAIL
+11,Karthika,70,86,58,60,66,340,68,Grade B,PASS
