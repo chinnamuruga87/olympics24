@@ -1,0 +1,18 @@
+[
+	{
+		"p_rel_url" : "https://raw.githubusercontent.com/chinnamuruga87/olympics24/refs/heads/main/dv/empa.csv",
+		"p_folder" : "empa",
+		"p_files" : "empa.parquet"
+	},
+	{
+		"p_rel_url" : "https://raw.githubusercontent.com/chinnamuruga87/olympics24/refs/heads/main/dv/astu.csv",
+		"p_folder" : "astu",
+		"p_files" : "astu.parquet"
+	},
+	{
+		"p_rel_url" : "https://raw.githubusercontent.com/chinnamuruga87/olympics24/refs/heads/main/dv/couf.csv",
+		"p_folder" : "couf",
+		"p_files" : "couf.parquet"
+	}
+
+]
